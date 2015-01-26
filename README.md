@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data-Assignment
 Peer-assessed assignment for Coursera subject Getting and Cleaning Data
 
-Sorry, as I lost track of the date and didn't have time to finish the assignment! Only got up to step 3.
+Sorry, as I lost track of the date and didn't have time to finish the assignment! Only got up to step 3/4.
 
 Script reads in the training and test datasets, found in folders of the relevant working directory, then knits them together with rbind.
 
